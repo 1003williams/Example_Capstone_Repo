@@ -1,4 +1,4 @@
-# Design Presentation
+# Project Status Presentations 
 
 Your design presentation is an opportunity to summarize your design work and present it to your management and customers. These presentations should encapsulate the key technical aspects of your design process—including identification, formulation, conceptual design, detailed design, and analysis. Focus on highlighting the most impactful updates for your project. The aim is to deliver a compelling and engaging narrative that conveys the necessary technical information while omitting obvious or extraneous details.
 
