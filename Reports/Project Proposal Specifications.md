@@ -1,15 +1,14 @@
 # Project Proposal
 
-This document provides a comprehensive explanation of what a project proposal should encompass. The content here is detailed and is intended to highlight the guiding principles rather than merely listing expectations. The sections that follow contain all the necessary information to understand the requirements for creating a project proposal.
+This document provides an explanation of what a project proposal should encompass. The content here is detailed and is intended to highlight the guiding principles rather than merely listing expectations. The sections that follow contain all the necessary information to understand the requirements for creating a project proposal.
 
 
 ## General Requirements for the Document
 - All submissions must be composed in markdown format.
-- All sources must be cited unless the information is common knowledge for the target audience.
-- The document must be written in third person.
-- The document must identify all stakeholders including the instuctor, supervisor, and customer.
+- All sources must be cited unless the information is common knowledge.
+- Teams must identify all stakeholders including the supervisor and customer.
 - The problem must be clearly defined using "shall" statements.
-- Existing solutions or technologies that enable novel solutions must be identified.
+- Existing solutions or technologies must be identified.
 - Success criteria must be explicitly stated.
 - An estimate of required skills, costs, and time to implement the solution must be provided.
 - The document must explain how the customer will benefit from the solution.
@@ -22,12 +21,12 @@ This document provides a comprehensive explanation of what a project proposal sh
 
 The introduction must be the opening section of the proposal. It acts as the "elevator pitch" of the project, briefly introducing the objective, its importance, and the proposed solution. Because readers may only read this section, it should effectively capture their attention and encourage them to read further.
 
-Toward the end of the introduction, include a subsection that outlines what the proposal will cover. This helps set reader expectations for the ensuing sections.
+Toward the end of the introduction, include an outline of what the proposal will cover.
 
 
 ## Formulating the Problem
 
-Formulating the problem or objective involves clearly defining it through background information, specifications, and constraints. Think of it as "fencing in" the objective to make it unambiguously clear what is and is not being addressed and why.
+Formulating the problem or objective involves clearly defining it through background information, specifications, and constraints. Think of it as "fencing in" the objective to make it clear what is and is not being addressed and why.
 
 Questions to consider:
 - Who does the problem affect (i.e. who is your customer)?
@@ -37,11 +36,11 @@ Questions to consider:
 
 ### Background
 
-Provide context and details necessary to define the problem clearly and delineate its boundaries.
+Provide context and details necessary to define the problem clearly and outline its boundaries.
 
 ### Specifications and Constraints
 
-Specifications and constraints define the system's requirements. They can be positive (do this) or negative (don't do that). They can be mandatory (shall or must) or optional (may). They can cover performance, accuracy, interfaces, or limitations. Regardless of their origin, they must be unambiguous and impose measurable requirements.
+Specifications and constraints define the system's requirements. They can be positive (do this) or negative (don't do that). They can be mandatory (shall or must) or optional (may). They can cover performance, accuracy, interfaces, or limitations. Regardless of their origin, they must impose clear and measurable requirements.
 
 #### Specifications
 
@@ -74,15 +73,13 @@ Each project proposal must include a comprehensive description of the necessary 
 
 ### Budget
 
-Provide a budget proposal with justifications for expenses such as software, equipment, components, testing machinery, and prototyping costs. This should be an estimate, not a detailed bill of materials.
+Provide a budget proposal with justifications for expenses such as software, equipment, components, machinery, and prototyping costs. This should be an estimated bill of materials.
 
 ### Personel
 
 Identify the skills present in the team and compare them to those required to complete the project. Address any skill gaps with a plan to acquire the necessary knowledge.
 
-Besides the team, also state who you choose to be you supervisor and why.
-
-State who your instrucotr is and what role you expect them to play in the project.
+Also, state who you choose to be you team lead and why.
 
 ### Timeline
 
