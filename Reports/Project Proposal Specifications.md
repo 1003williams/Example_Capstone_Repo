@@ -1,4 +1,4 @@
-# Project Proposal
+# Project Proposal Specifications
 
 This document provides an explanation of what a project proposal should encompass. The content here is detailed and is intended to highlight the guiding principles rather than merely listing expectations. The sections that follow contain all the necessary information to understand the requirements for creating a project proposal.
 
