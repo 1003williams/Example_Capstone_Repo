@@ -4,7 +4,7 @@ This document provides an explanation of what a project proposal should encompas
 
 
 ## General Requirements for the Document
-- All submissions must be composed in markdown format.
+- All submissions must be submitted with the name Project_Proposal_Team_X.pptx where X is your project theme.
 - All sources must be cited unless the information is common knowledge.
 - Teams must identify all stakeholders including the supervisor and customer.
 - The problem must be clearly defined using "shall" statements.
