@@ -2,7 +2,7 @@
 
 The purpose of the individual presentation is to provide students with practice in public speaking. Effective communication is crucial to success in the industry. Each team member is responsible for effectively communicating their challenges and insights to others.
 
-To give students practice, each student is required to deliver a 5 to 10 minute presentation. Other students and the instructor will evaluate the student's performance. The presentation should focus on a technical issue of interest to the student. The topic may or may not be related to the student's detailed design but should be something in the electrical engineering area.
+To give students practice, each student is required to deliver a 10 minute presentation. Other students and the instructor will evaluate the student's performance. The presentation should focus on a technical issue of interest to the student. The topic may or may not be related to the student's detailed design but should be something in the electrical engineering area.
 
 Each engineer should reflect on the following questions:
 - What background information is necessary to understand the problem (assuming basic engineering knowledge)?
