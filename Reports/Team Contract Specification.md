@@ -2,14 +2,14 @@
 
 **Team X**  
 **Team Members:** [List all student names here]   
-*Electrical and Computer Engineering Department*  
-*Tennessee Technological University*
+*Mechatronics Department*  
+*Roane State Community College*
 
 The following are suggestions for items to include in your team contract. You get to customize this document as you see fit. Note that your final contract, must be approved by your instructor.
 
 ## **Introduction**
 
-*This teamwork contract outlines the agreed-upon expectations, responsibilities, and guidelines for effective collaboration among the members of Team X. By adhering to this contract, we aim to foster a productive, respectful, and supportive team environment conducive to the success of our project.*
+*This teamwork contract outlines the agreed-upon expectations, responsibilities, and guidelines for effective collaboration among the members of Team X. By adhering to this contract, we aim to foster a productive, respectful, and supportive team environment beneficial to the success of our project.*
 
 
 ## **Team Expectations**
@@ -88,7 +88,7 @@ Assigning specific roles can help streamline team operations. Below, define any 
 
 - **Responsibilities:**
   - Take detailed notes during meetings.
-  - Distribute meeting minutes to all team members within 24 hours.
+  - Distribute meeting minutes to all team members.
 - **Powers Granted:**
   - May request clarifications during meetings to ensure accurate record-keeping.
 - **Expectation Changes:**
